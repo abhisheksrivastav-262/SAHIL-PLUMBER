@@ -30,8 +30,8 @@ export const services:Service[] = [
 export const areas=["Dankaur","Greater Noida","Pari Chowk","Greater Noida Residential Societies","Construction Sites","Greater Noida City Areas"];
 export const gallery=[{src:pipeLeakImage,alt:"Plumber repairing a leaking pipe beneath a sink",label:"Pipe leakage repair"},{src:tapFaucetImage,alt:"Hands repairing a chrome tap and faucet cartridge",label:"Tap & faucet repair"},{src:bathroomPlumbingImage,alt:"Bathroom plumbing plan showing water lines and drains",label:"Bathroom plumbing"},{src:drainageImage,alt:"A worker clearing an outdoor drain",label:"Drainage & blockage work"},{src:faucetImage,alt:"Tap and faucet repair",label:"Tap installation"},{src:pipeImage,alt:"Pipe installation work",label:"Pipeline installation"},{src:drainImage,alt:"Drainage work",label:"Drainage work"},{src:bathroomImage,alt:"Bathroom fittings",label:"Bathroom fittings"},{src:toolsImage,alt:"Plumbing tools and equipment",label:"Tools & fittings"},{src:heroImage,alt:"Plumbing repair work",label:"Pipe repair"}];
 export const workVideos=[
- {src:"/videos/work-01.mp4",poster:"/video-posters/work-01.jpg",title:"Site water work",description:"Work carried out at a local site."},
  {src:"/videos/work-02.mp4",poster:"/video-posters/work-02.jpg",title:"Water tank installation",description:"Rooftop water tank work."},
+ {src:"/videos/work-01.mp4",poster:"/video-posters/work-01.jpg",title:"Site water work",description:"Work carried out at a local site."},
  {src:"/videos/work-03.mp4",poster:"/video-posters/work-03.jpg",title:"Bathroom fittings",description:"Bathroom fixture and connection work."},
  {src:"/videos/work-04.mp4",poster:"/video-posters/work-04.jpg",title:"On-site installation",description:"Installation work at a construction site."},
  {src:"/videos/work-05.mp4",poster:"/video-posters/work-05.jpg",title:"Pipeline work",description:"Water pipeline work at a site."},
