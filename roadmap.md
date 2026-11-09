@@ -1,0 +1,2 @@
+- [ ] Build the single-page Sahil Plumber website with responsive navigation, service information, image gallery, location, and validated WhatsApp enquiry.
+- [ ] Verify the page, links, mobile layout, enquiry submission, tests, and preview diagnostics.
